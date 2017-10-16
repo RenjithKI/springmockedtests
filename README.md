@@ -20,3 +20,6 @@ I hope you find it useful! If you like this concept of mocking in integration te
 
 --
 Kresimir
+#USEFUL FUTHER READING
+#https://spring.io/blog/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles
+https://spring.io/blog/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles
