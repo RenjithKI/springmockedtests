@@ -24,7 +24,7 @@ Kresimir
 #https://spring.io/blog/2011/06/21/spring-3-1-m2-testing-with-configuration-classes-and-profiles
 #https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html
 #https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html
-#
+#https://www.codeproject.com/Articles/806508/Using-PowerMockito-to-Mock-Final-and-Static-Method
 #
 #
 #
